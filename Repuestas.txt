@@ -1,1 +1,7 @@
-
+TALLER DE LENGUAJES I - TP2
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+El Archivo tp2_1_2.c, no se puede ver en la rama principal ya que se trabajo en la rama *Opcion_2*.
+¿Que diferencias notas?
+Se puede observar como aparecio un circulo azul debajo del nombre de nuestra rama principal y ademas a la derecha de la rama principal se puede ver el commit que hice.
+¿Que nota?
+Se puede observar como la rama Principal se enlazo con la rama Opcion_2 y ademas lo escrito en el commit.
